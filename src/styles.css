@@ -232,8 +232,9 @@ nav {
 .nav-toggle:hover {
   color: var(--clr-secondary);
 }
-.logo {
+.maybach {
   height: 50px;
+  width: 50px;
 }
 .links-container {
   height: 0;
